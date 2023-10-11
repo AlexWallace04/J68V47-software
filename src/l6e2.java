@@ -8,7 +8,7 @@ public class l6e2 {
         do {
             // Display the menu
             System.out.println("Menu:");
-            System.out.println("1. Say 'hello'");
+            System.out.println("1. 'hello'");
             System.out.println("2. Tell me the time");
             System.out.println("3. Tell me a joke");
             System.out.println("4. Quit");
